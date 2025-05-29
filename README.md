@@ -10,7 +10,17 @@
 
 This application is designed as a creative tool, especially for users working with AI image generation platforms like **ComfyUI** or any system that utilizes **ControlNet segmentation models**.
 
+![image](https://github.com/user-attachments/assets/634c9890-2c81-4ac5-8a22-5181886ee6a7)
+
+<br>
+
+https://github.com/user-attachments/assets/1b793c99-975b-4278-aed4-d463f338ca88
+
 </div>
+
+
+
+
 
 <br>
 <br>
