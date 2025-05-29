@@ -1,7 +1,7 @@
 <div align="center">
 
 ![version](https://img.shields.io/badge/Version-1.0.0-blue)
-[![GitHub issues](https://img.shields.io/github/issues/shahkoorosh/Concave-Building?color=red)](https://github.com/shahkoorosh/Concave-Building/issues)
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red)](./LICENSE)
 [![GitHub Repo stars](https://img.shields.io/github/stars/shahkoorosh/Concave-Building?style=social)](https://github.com/shahkoorosh/Concave-Building/stargazers)
 [![Next.js](https://img.shields.io/badge/Next.js-15.2.4-black.svg?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://www.youtube.com/@UD.SMedia)
