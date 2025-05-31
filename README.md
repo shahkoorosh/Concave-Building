@@ -2,8 +2,6 @@
 
 ![version](https://img.shields.io/badge/Version-1.0.0-blue)
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red)](./LICENSE)
-[![GitHub Repo stars](https://img.shields.io/github/stars/shahkoorosh/Concave-Building?style=social)](https://github.com/shahkoorosh/Concave-Building/stargazers)
-[![Downloads](https://img.shields.io/github/downloads/shahkoorosh/Concave-Building/total?style=flat-square&logo=github&label=Downloads)](https://github.com/shahkoorosh/Concave-Building/releases)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://www.youtube.com/@UD.SMedia)
 
 # Conceptual Concave Building
